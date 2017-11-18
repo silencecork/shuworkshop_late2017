@@ -1,5 +1,6 @@
 package com.shuworkshop.demo;
 
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class Main {
@@ -15,7 +16,16 @@ public class Main {
 		
 		String options = scanner.nextLine();
 		
-		IOperation operation = null;
+		HashMap<String, IOperation> operationMap = new HashMap<String, IOperation>();
+		operationMap.put("1", new CreateUserOperation());
+		operationMap.put("2", new DeleteUserOperation());
+		operationMap.put("3", new UpdateUserOperation());
+		operationMap.put("4", new LoginOperation());
+		operationMap.put("5", new ListUserOperation());
+		
+		IOperation operation = operationMap.get(options);
+		
+		/*IOperation operation = null;
 		if (options.equals("1")) {
 			operation = new CreateUserOperation();
 			operation.askQuestion();
@@ -31,13 +41,12 @@ public class Main {
 		} else if (options.equals("5")) {
 			operation = new ListUserOperation();
 			operation.askQuestion();
-		} else {
-			System.out.println("There is no such option");
-		}
-		
+		}*/
 		
 		if (operation != null) {
 			operation.doOperation();
+		} else {
+			System.out.println("There is no such option");
 		}
 		scanner.close();
 	}
