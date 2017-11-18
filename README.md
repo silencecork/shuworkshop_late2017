@@ -14,6 +14,7 @@
 <br>說明：如何使用Node.js建立簡單的API Server
 <br>您將學到:
 <br>1. 如何安裝Node.js以及基本語法 <a href="https://nodejs.org/en/">Node.js</a>
+<br>2. 使用Sublime進行開發 <a href="https://www.sublimetext.com/">Sublime</a>
 <br>2. 如何建立Node.js專案
 <br>3. 如何使用NPM安裝Node.js套件Express <a href="http://expressjs.com/zh-tw/">Express中文說明</a>
 <br>4. 如何使用Express建立API Server
