@@ -41,5 +41,5 @@ app.get('/users', function (req, res) {
 	res.status(200).send(ret)
 
 })
-
+console.log('Start Server...')
 app.listen(3000);
