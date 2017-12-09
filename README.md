@@ -6,7 +6,7 @@
 <h3>01_JavaApiCall</h3>
 <br>說明：示範如何使用Java呼叫網路API並處理回傳結果
 <br>您將學到:
-<br>1. 如何使用Postman來測試API
+<br>1. 如何使用Postman來測試API <a herf="https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiH2JSauv3XAhVGupQKHUcOBzkQFggmMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fpostman%2Ffhbjgbiflinjbdggehcddcbncdddomop%3Fhl%3Dzh-TW&usg=AOvVaw3orE5cYNdV7xa-PuhONKhq">Postman Chrome App下載點</a>
 <br>2. 如何使用HttpURLConnection
 <br>3. 如何在Eclipse加入第三方函式庫 <a href="https://github.com/stleary/JSON-java">JSON</a>
 <br>4. 如何剖析JSON
@@ -28,7 +28,7 @@
 <br>說明：如何使用API Server存取MySQL Database
 <br>您將學到:
 <br>1. 如何使用free sql database服務 <a href="http://www.freesqldatabase.com/">Free Sql Database</a>
-<br>2. 如何使用Chrome外掛測試SQL
+<br>2. 如何使用Chrome外掛測試SQL <a href="https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjXpvmvuv3XAhXBGZQKHf4YDQIQFggpMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fchrome-mysql-admin%2Fndgnpnpakfcdjmpgmcaknimfgcldechn&usg=AOvVaw2jGB5TiXvZS_UCj0tszUJn">MyAdmin Chrome App下載點</a>
 <br>3. 基本SQL語法 <a href="http://www.runoob.com/mysql/mysql-update-query.html">SQL語法教學</a>
 <br>3. 如何使用NPM安裝Node.js套件MySQL
 <br>4. 如何使用Express搭配MySQL建立管理使用者的API Server
