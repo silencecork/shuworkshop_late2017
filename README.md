@@ -28,7 +28,7 @@
 <br>說明：如何使用API Server存取MySQL Database
 <br>您將學到:
 <br>1. 如何使用free sql database服務 <a href="http://www.freesqldatabase.com/">Free Sql Database</a>
-<br>2. 如何使用Chrome外掛測試SQL <a href="https://chrome.google.com/webstore/detail/chrome-mysql-admin/ndgnpnpakfcdjmpgmcaknimfgcldechn&usg=AOvVaw2jGB5TiXvZS_UCj0tszUJn">MyAdmin Chrome App下載點</a>
+<br>2. 如何使用Chrome外掛測試SQL <a href="https://chrome.google.com/webstore/detail/chrome-mysql-admin/ndgnpnpakfcdjmpgmcaknimfgcldechn">MyAdmin Chrome App下載點</a>
 <br>3. 基本SQL語法 <a href="http://www.runoob.com/mysql/mysql-update-query.html">SQL語法教學</a>
 <br>3. 如何使用NPM安裝Node.js套件MySQL
 <br>4. 如何使用Express搭配MySQL建立管理使用者的API Server
